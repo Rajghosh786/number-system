@@ -26,7 +26,7 @@ app.js has a function which gives output as array which has all primeNumbers, se
 16 Even number
 18 Even number
 
-(app.js c)
+(app.js actual answers)
 23
 4
 16
